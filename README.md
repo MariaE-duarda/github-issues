@@ -13,11 +13,7 @@
    Uma aplicação web que utiliza a API do GitHub para buscar issues de um repositório, dados do perfil e exibi-los como um blog.
     <br />
     <br />
-    <a href="https://github-blog-sigma.vercel.app/" target="_blank" >View Demo</a>
-    ·
-    <a href="https://github.com/matheuslima99/github-blog/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/matheuslima99/github-blog/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -48,9 +44,6 @@
 ## Sobre o projeto
 
  <a href="https://github.com/matheuslima99/github-blog">
-    <img src="./.github/assets/capa.png" 
-    alt="Logo">
-  
   </a>
 
 O Github blog é uma aplicação web que tem como objetivo buscar os dados de um determinado usuário
@@ -117,15 +110,5 @@ As contribuições são o que tornam a comunidade de código aberto um lugar tã
 ## Licença
 
 Distribuído sob a licença MIT. Ver `LICENSE.txt` para maiores informações.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contato
-
-Matheus Lima - [LinkedIn](https://www.linkedin.com/in/matheus-soares99/) - maths.soares99@gmail.com
-
-Link do projeto: [https://github.com/matheuslima99/github-blog](https://github.com/matheuslima99/github-blog)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
